@@ -20,3 +20,6 @@ src/FatalErrorWhenAutoloaded.php
 PHP Fatal error:  A class constant must not be called 'class'; it is reserved for class name fetching in /home/honza/Development/tmp-phpstan-fatal-ok/src/FatalErrorWhenAutoloaded.php on line 9
 Fatal error: A class constant must not be called 'class'; it is reserved for class name fetching in /home/honza/Development/tmp-phpstan-fatal-ok/src/FatalErrorWhenAutoloaded.php on line 9
 ```
+
+## Related issue:
+- https://github.com/phpstan/phpstan/issues/11826
