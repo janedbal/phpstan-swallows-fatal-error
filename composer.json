@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "phpstan/phpstan": "^1.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Rules\\": "rules/"
+        }
+    }
+}
